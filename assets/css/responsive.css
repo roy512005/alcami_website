@@ -88,7 +88,7 @@
         margin-bottom: 0;
         font-size: clamp(3.2rem, 5.3vw, 7.2rem);
     }
-    .testimonial_section swiper{
+    .testimonial_section .swiper {
         padding-bottom: 5rem;
     }
     .testimonial_section .common_nav {
