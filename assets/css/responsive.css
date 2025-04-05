@@ -88,6 +88,21 @@
         margin-bottom: 0;
         font-size: clamp(3.2rem, 5.3vw, 7.2rem);
     }
+    .testimonial_section swiper{
+        padding-bottom: 5rem;
+    }
+    .testimonial_section .common_nav {
+        top: 96%;
+    }
+    .common_nav {
+        height: 3rem;
+        width: 3rem;
+        font-size: 1.2rem;
+    }
+    .testimonial_section .swiper-button-prev.common_nav {
+        left: auto;
+        right: 14%;
+    }
 }
 @media (max-width:576px) {
     .guarantee_box {
